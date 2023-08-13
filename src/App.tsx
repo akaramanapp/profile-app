@@ -6,6 +6,7 @@ import ProfilePic from './Components/ProfilePic'
 import About from './Components/About'
 
 import SideBar from './Components/SideBar'
+import Services from './Components/Services'
 
 function App() {
  
@@ -20,7 +21,7 @@ function App() {
         <div className='col-span-2 p-5 mt-[90px]'>
             <Introduction/>
             <About/>
-         
+            <Services />
         </div>
         <div className='hidden md:block'>
           <ProfilePic/>
