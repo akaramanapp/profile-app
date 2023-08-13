@@ -22,7 +22,7 @@ function Header() {
       w-full justify-between border-b-[1px] bg-white">
         <div
           className="w-[90px] h-[90px]
-          bg-black"
+          bg-white"
         >
           <img src="/logo.png" className="p-7" />
         </div>
