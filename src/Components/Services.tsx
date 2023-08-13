@@ -7,19 +7,19 @@ function Services() {
             id: 1,
             title: Strings.FRONTED,
             desc: Strings.FRONTED_DESC,
-            logo: "/design.png",
+            logo: "https://raw.githubusercontent.com/akaramanapp/profile-app/main/dist/design.png",
         },
         {
             id: 2,
             title: Strings.BACKEND,
             desc: Strings.BACKEND_DESC,
-            logo: "/backend.png",
+            logo: "https://raw.githubusercontent.com/akaramanapp/profile-app/main/dist/backend.png",
         },
         {
             id: 3,
             title: Strings.ONLINE,
             desc: Strings.ONLINE_DESC,
-            logo: "/teaching.png",
+            logo: "https://raw.githubusercontent.com/akaramanapp/profile-app/main/dist/teaching.png",
         },
     ];
     return (

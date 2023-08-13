@@ -24,7 +24,7 @@ function Header() {
           className="w-[90px] h-[90px]
           bg-white"
         >
-          <img src="/logo.png" className="p-7" />
+          <img src="https://raw.githubusercontent.com/akaramanapp/profile-app/main/dist/logo.png" className="p-7" />
         </div>
         <div className="hidden md:flex gap-14">
           {menu.map((item,index) => (
